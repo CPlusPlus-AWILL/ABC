@@ -2,10 +2,12 @@
 
 [参考链接](https://blog.csdn.net/caroline_wendy/article/details/22727823)
 
+[参考链接](https://stackoverflow.com/questions/121162/what-does-the-explicit-keyword-mean)
+
 [github仓库](https://github.com/CPlusPlus-AWILL/ExplicitKeyword)
 
 * explicit的主要用法：
-    用于单参数的构造函数中，防止==隐式转换==，避免函数入口参数歧义。
+    1. 用于单参数的`构造函数`中，防止==隐式转换==，避免函数入口参数歧义。
 
 比如：
 
